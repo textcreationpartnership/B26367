@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon concerning the worship of God in private preached before the Queen at White-Hall, June 7th, 1691 by Tho. Lynford ...</title>
+            <author>Lynford, Thomas, 1650-1724.</author>
+         </titleStmt>
+         <extent>Approx. 35KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26367</idno><idno type="EEBO-CITATION">17196360</idno>
+  <idno type="VID">206342</idno>
+  <idno type="EEBO-PROQUEST">2264219365</idno>
+  
+            <idno type="STC">Wing L3567</idno>
+            <idno type="OCLC">17196360</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26367)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206342)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1619:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon concerning the worship of God in private preached before the Queen at White-Hall, June 7th, 1691 by Tho. Lynford ...</title>
+                  <author>Lynford, Thomas, 1650-1724.</author>
+               </titleStmt>
+               <extent>[2], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for James Adamson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Printed by Her Majesties special command."</note>
+                  <note>Contains errors in pagination.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  N.T. --  Matthew VI, 6 --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+               <term type="topical_term">Prayer.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206342:1"/>
+            <pb facs="tcp:206342:1"/>
+            <p>A SERMON Concerning the <hi>Worship of God in Private:</hi> Preached before the QUEEN AT WHITE-HALL. <hi>June,</hi> 7th. 1691.</p>
+            <p>By <hi>THO. LYNFORD.</hi> D. D. Chaplain in Ordinary to their Majesties.</p>
+            <p>
+               <hi>Published by Her Majesties Special Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>James Adamson</hi> at the <hi>Angel</hi> and <hi>Crown</hi> in S. <hi>Paul's Church-Yard.</hi> 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:206342:2"/>
+            <pb n="1" facs="tcp:206342:2"/>
+            <epigraph>
+               <bibl>
+                  <hi>Matthew vi. 6.</hi>
+               </bibl>
+               <q>But thou, when thou prayest, enter into thy Closet, and when thou hast shut thy door, pray to thy Father which is in secret, and thy Father which seeth in secret, shall reward thee open<g ref="char:EOLhyphen"/>ly.</q>
+            </epigraph>
+            <p>OUR Saviour in the words of the Text, instructs us to be aware of that Hypocrisie, which the Phari<g ref="char:EOLhyphen"/>sees were guilty of at their Prayers. All they design'd by such acts of Devotion, was to gain the Applause of Men, and therefore they Prayed <hi>standing in the Synagogues, and in the corners of the Streets:</hi> But our Saviour ad<g ref="char:EOLhyphen"/>viseth his Disciples to study rather how to please God, than Men; and therefore for the avoiding all manner of Ostentation, to pray in secret, <hi>and their Father who saw them in secret, would not fail to reward them openly.</hi>
+            </p>
+            <pb n="2" facs="tcp:206342:3"/>
+            <p>By which Advice he doth not design to pre<g ref="char:EOLhyphen"/>fer Praying in Private before Praying in Publick, for they are both good in their kind: And there are two great ends of Pray<g ref="char:EOLhyphen"/>er, <hi>viz.</hi> the Glory of God, and the Edification of others, which are chiefly promoted by the latter, and not by the former. But all that he hints to us thereby, is, that we should not propose to our selves by-ends in any acts of Devotion which we perform; but should all the while we perform them, be sure to take care of the inward sentiments of our Minds, and endeavour to be so af<g ref="char:EOLhyphen"/>fected towards God, as it becomes such sin<g ref="char:EOLhyphen"/>ful, such indigent Creatures as we are; which may be effectually done, altho we Pray never so secretly, and no body has any knowledg thereof, but God and our selves.</p>
+            <p>This seems to be the purport of our Sa<g ref="char:EOLhyphen"/>viours Discourse; which I shall not at pre<g ref="char:EOLhyphen"/>sent in large upon, but shall only take occa<g ref="char:EOLhyphen"/>sion from the Text, to give a Description of that Worship, which may, and ought to be paid to God in Private; and then endeavour to represent to your consideration, some of those Advantages which accrue to those who are constant in the performance there<g ref="char:EOLhyphen"/>of.</p>
+            <pb n="2" facs="tcp:206342:3"/>
+            <p>I begin with a Description of that Wor<g ref="char:EOLhyphen"/>ship which may, and ought to be paid to God in private. And because there are some other instances thereof, besides that which is made mention of in the Text, I shall make it to consist in these following particulars.</p>
+            <p n="1">1. <hi>In entring into our Closets</hi> (as our Sa<g ref="char:EOLhyphen"/>viour here expresseth it) <hi>and there Praying to our Father which is in secret.</hi>
+            </p>
+            <p n="2">2. In frequently Conversing with the Scripture and such good Books as treat about Religious Matters.</p>
+            <p n="3">3. In private Meditation upon Spiritual things.</p>
+            <p n="4">4. And lastly, In secret Reflexions and short Ejaculations in all places, at all times of the day, and in all transactions of Life.</p>
+            <p n="1">1. One part of private Worship is, when at some set times we retire into our Closets, and there offer unto God our Prayers and Thanksgivings.</p>
+            <p>This has been the constant Practice of the greatest Examples of Piety as ever the World saw.</p>
+            <p>To name two or three, which the Scriptures make mention of.</p>
+            <p>The Prophet <hi>Daniel,</hi> we are told, <hi>kneeled
+<pb n="4" facs="tcp:206342:4"/>upon his knees three times a day, and Prayed and gave Thanks,</hi> Dan. 6.10. And the Psalmist tells us, <hi>Psal.</hi> 119.164. That <hi>seven times a day he did praise God, because of his righteous judg<g ref="char:EOLhyphen"/>ments.</hi> In the 10th of the <hi>Acts v.</hi> 9. we find St. <hi>Peter</hi> at Prayer by himself on the House<g ref="char:EOLhyphen"/>top. And our blessed Lord and Master thought fit to separate himself now and then from the rest of the World, that he might Pray Privately; more especially in the time of his greatest Distress, and just before he was to Suffer so Cruel and so Ignominious a Death. So that if we would tread in the steps of those Eminent Patterns of Virtue and true Holiness which are gone before us; if we would follow our Saviour's Example as well as his Advice, we cannot but think our selves oblig'd to make the same acknow<g ref="char:EOLhyphen"/>ledgments in private as well as publick of our dependence upon God for what we either want or have received, as we find they did.</p>
+            <p>To determine indeed how much time is to be spent in such Acts of Devotion, must be left to the Prudence and Sincerity of every particular Person, who is bound to consider impartially his own circumstances,
+<pb n="5" facs="tcp:206342:4"/>and to govern himself according to them. But the general Rule to be observed, is, That things of this Nature must not be wholly neglected, and that they who have most lei<g ref="char:EOLhyphen"/>sure, either from the publick, or from their own necessary concerns, ought to employ most time therein. For what reasonable pretence can be made for the total neglect thereof? Who is there who has so much Business, as that when he riseth in the Morn<g ref="char:EOLhyphen"/>ing, he cannot secure so much time to him<g ref="char:EOLhyphen"/>self, as may suffice to return Thanks for that comfortable Repose which has been af<g ref="char:EOLhyphen"/>forded him, and to beg God's Protection the following day. Or that when he is a<g ref="char:EOLhyphen"/>bout to lay himself down to Sleep, he can<g ref="char:EOLhyphen"/>not spare a few Minutes to commit himself to the custody of him who neither slum<g ref="char:EOLhyphen"/>breth nor sleepeth?</p>
+            <p>It is not the number of words which God is pleased with upon such an occasion; and they who have not leisure to pour forth their Souls in some longer Petition, will be accepted by him if they do it in some lesser Form. And it may be found by Experience, that to keep up a Reverence for him with<g ref="char:EOLhyphen"/>in our Minds, it will be much better to
+<pb n="6" facs="tcp:206342:5"/>use only the Lord's Prayer, provided it be done with due Attention and Devotion, than not to Pray at all.</p>
+            <p>They indeed seem to have most to say for their being excus'd from this Duty of pri<g ref="char:EOLhyphen"/>vate Prayer, who Pray daily with their Fa<g ref="char:EOLhyphen"/>milies, or are constant at the Prayers of the Church; neither can there be any doubt, but that upon particular occasions it may be lawfully omitted by them. But besides, that praying when we are a lone, and by our selves, does dispose us to Pray with more affection when we Pray with others. There are some cases wherein private Prayer is absolutely necessary, and we shall not be able to Pray to God in such a manner as we ought to Pray unto him, unless we Pray by our selves.</p>
+            <p>As for example, When we know our selves to have been lately guilty of any par<g ref="char:EOLhyphen"/>ticular Sins, in order to beget within our Minds an hearty Sorrow for them, and to establish and confirm our Resolutions in for<g ref="char:EOLhyphen"/>saking them; It is fit that we lay them open in the presence of God, together with all their aggravating circumstances: That we bewail our Folly and Ingratitude with
+<pb n="7" facs="tcp:206342:5"/>Floods of Tears, with ringing of Hands, most bitter Sighs and Groans, and all the other signs of true Contrition: That we be more than ordinarily earnest at the Throne of Grace for Pardon and Forgiveness. And how can this at any other time be done, than when we are alone, where we are not tied up to those rules of Speech and behaviour as we are all the while we are placed in the sight of others?</p>
+            <p>Thus when any great misfortune befalls us, it becomes us to bemoan our selves in Private, and (in such a passionate way, as it may not be so Decent to make show of in publick) to intreat the Almighty to remove those Evils with which we are oppressed.</p>
+            <p>So in matters of great consequence and difficulty, where we are either to ad<g ref="char:EOLhyphen"/>vise and act our selves, or to de-pend up<g ref="char:EOLhyphen"/>on the advice and actions of others; our Case is after a more particular manner to be made known to God, and we are to in<g ref="char:EOLhyphen"/>large upon it (which cannot be done in pub<g ref="char:EOLhyphen"/>lick) with such peculiar Expressions as do best suit it, and do at the same time testifie our reliance to be wholly upon him for his Favour and Direction.</p>
+            <p>So when we Pray for others, for some par<g ref="char:EOLhyphen"/>ticular
+<pb n="8" facs="tcp:206342:6"/>Persons who are very dear unto us; for some kind Friend who Languisheth on the Bed of Sickness; for some near Relation whose Person is exposed to very great diffi<g ref="char:EOLhyphen"/>culties and dangers, what lifting up of Eyes and Hands, what humble Prostrations ought we to use, what earnest struglings with God on such an ones behalf? All which it is most fit that God should be the only witness of, and no body else.</p>
+            <p>In the last place, when God shews extra<g ref="char:EOLhyphen"/>ordinary kindness to any one, when he de<g ref="char:EOLhyphen"/>livers him out of danger, when he blesses his endeavours with unexpected success, makes him thrive and prosper in the World after a more peculiar manner, and the foot<g ref="char:EOLhyphen"/>steps of a Divine Providence concerning it self on his behalf, are manifestly seen in se<g ref="char:EOLhyphen"/>veral remarkable instances; It does behove him who is thus blest, to fall down upon his Knees, and acknowledg the kindness of God towards him.</p>
+            <p>But this can't be done with that Attenti<g ref="char:EOLhyphen"/>on, that Fervencie, that particular Enume<g ref="char:EOLhyphen"/>ration of all those events wherein he has had success, as when being alone, he is al<g ref="char:EOLhyphen"/>lowed the liberty of expressing his thankful<g ref="char:EOLhyphen"/>ness to God with what words and gestures he shall judg most fit and proper.</p>
+            <pb n="9" facs="tcp:206342:6"/>
+            <p>In publick Forms of Prayer (wherein we joyn with others) there are indeed always such gene<g ref="char:EOLhyphen"/>ral Expressions as do contain under them all par<g ref="char:EOLhyphen"/>ticular Cases whatsoever. And therefore the De<g ref="char:EOLhyphen"/>vout Christian, does without question, as he goes along with the Offices of the Church, confess all his particular Sins, does make known his parti<g ref="char:EOLhyphen"/>cular Wants, does give Thanks for all the parti<g ref="char:EOLhyphen"/>cular Mercies which have been bestowed on him.</p>
+            <p>But the Mind in such a case, has not time to dwell upon these things so long and so particular<g ref="char:EOLhyphen"/>ly as it ought to do.</p>
+            <p>And therefore upon particular occasions a Man must retire into his Closet, and there use particu<g ref="char:EOLhyphen"/>lar Offices of his own making; that so he may with the greater Passion, either bewail any Sin which he has newly committed, or beg what at present he stands most in need of, or give Thanks for what he has lately received.</p>
+            <p>2dly, The private Worship of God consists in fre<g ref="char:EOLhyphen"/>quently Conversing with the Scriptures, and such good Books as treat about Religious Matters.</p>
+            <p>The Scriptures do contain a perfect account of all those things, the knowledg whereof is ne<g ref="char:EOLhyphen"/>cessary to make us wise unto Salvation.</p>
+            <p>They do give us an exact Scheme of all God's Laws.</p>
+            <p>They do acquaint us with what he has pro<g ref="char:EOLhyphen"/>mised
+<pb n="10" facs="tcp:206342:7"/>to do for us, and what he expects at our hands for all his kindness towards us.</p>
+            <p>So that the more we consult the Sacred Oracles, the more we shall become acquainted with our Duty, and understand how we ought to behave our selves towards God in all instances whatso<g ref="char:EOLhyphen"/>ever.</p>
+            <p>And as Good and Pious Books are so many Pa<g ref="char:EOLhyphen"/>raphrases and Commentaries upon the Holy Scriptures; by how much the more time we spend in being Conversant with them, the more fully will our Duty be explain'd to us. The more strongly will the Arguments and Motives to prevail with us to Practise it, be imprinted on our minds.</p>
+            <p>And here again, as to the fixing how much time is to be spent in a concern of such great conse<g ref="char:EOLhyphen"/>quence, it must be left to the Conscience of every particular person, who best understands how much he can spare from what he may justly call his necessary Affairs. But it must be great impru<g ref="char:EOLhyphen"/>dence in any one to suffer himself to be so much imployed as not to be at leasure to Read some small Portion of the Word of God every day, and now and then a page or two in some good Book that treats about Religion and Vertue.</p>
+            <p>What numbers of hours do many of us squan<g ref="char:EOLhyphen"/>der away in poring on the News-books and those
+<pb n="11" facs="tcp:206342:7"/>trivial Pamphlets, which swarm amongst us.</p>
+            <p>Should we not do much better, if instead of those which are the most Innocent and most Di<g ref="char:EOLhyphen"/>verting, (how much rather, if instead of those which are good for nothing but to debauch our Minds, by stamping on them a relish of Vice, even of those Vices, which we have not, perhaps, as yet dared to Practise.)</p>
+            <p>If, I say, instead of these, we took some times the Writings of the Inspired Pen-men into our hands, and carefully perused the Sacred Records of those Divine Truths, which Heaven by them, has thought fit to Reveal unto us?</p>
+            <p>As for such as have abundance of Business, such as are forced in the sweat of their Brows to Eat their Bread, even these would find that their Bu<g ref="char:EOLhyphen"/>siness went on with much greater satisfaction to themselves, and that they had reason to hope that their Labours would be sooner blessed with Suc<g ref="char:EOLhyphen"/>cess, if the study of God's Word was intermixed with them: And they were as intent sometimes upon understanding the Precepts of <hi>Moses</hi> and the Prophets, of Christ and the Apostles, in reference to their Eternal Welfare, as they are upon learn<g ref="char:EOLhyphen"/>ing the several Rules of their Arts and Callings in reference to their Temporal Advantage.</p>
+            <p>But as for those whom God has blest with a plentiful Subsistance in this World, who have no
+<pb n="12" facs="tcp:206342:8"/>occasion to Toil and Moil for the making a due provision for themselves and Families: What can they offer in excuse, if they don't appropri<g ref="char:EOLhyphen"/>ate part of that time, which will be otherwise too often spent in folly and wickedness, in this useful and (as they may find by experience, if they please) this delightful way of filling their minds with all manner of Divine Knowledg?</p>
+            <p>But how must it needs be matter of Wonder and Lamentation too, should such as these prefer as a more acceptable Entertainment, the passion<g ref="char:EOLhyphen"/>ate Discourses of fond Lovers, the Relation of some Bloody War, or Deceitful Treaty, the Rithms of some needy Athiest, the cunning Ob<g ref="char:EOLhyphen"/>servations of Crafty Politicians, before the most endearing Expressions of a good and gracious God to wo sinners to Repentance? Before the History of his own Son's glorious undertaking in the Flesh, and of that Covenant which was ratified in his Blood for us? Before the Devout Psalms of <hi>David,</hi> the Wise Maxims of <hi>Solomon,</hi> St. <hi>Paul</hi>'s ad<g ref="char:EOLhyphen"/>mirable Counsels and Directions how to behave our selves in all our several Relations inoffensive<g ref="char:EOLhyphen"/>ly towards God and towards Man?</p>
+            <p>3dly, The private Worship of God consists in private Meditation upon Spiritual things.</p>
+            <p>It is not enough to understand our Duty, unless we endeavour all we can to imprint it on our Me<g ref="char:EOLhyphen"/>mories,
+<pb n="13" facs="tcp:206342:8"/>and to make it familiar unto us, that so we may be the more easily preval'd with to practise it.</p>
+            <p>Now how can this so well be effected, as when being alone, we do often recollect into our minds what we have learnt from the Scriptures, and do dwell some time in the Contemplation of it?</p>
+            <p>And therefore the Holy Psalmist giving a De<g ref="char:EOLhyphen"/>scription, <hi>Psal.</hi> 1.2. of one who delighted in the Law of God, saith of him, <hi>That he meditated therein day and night,</hi> i. e. When he was alone in the day time, when at night all the rest of Mankind were asleep, and he only awake;</p>
+            <p>Then was he musing upon the Excellency of Religion, and the many Advantages which at<g ref="char:EOLhyphen"/>tend an Holy and Godly Life;</p>
+            <p>Then was he admiring the Wonderful Works of God's Creation and Providence;</p>
+            <p>Then was he carefully Examining the Nature of his Duty, and how far his Actions had been conformable thereunto;</p>
+            <p>Then was he considering within himself the many Arguments and Motives to the Perfor<g ref="char:EOLhyphen"/>mance of it, and what a Folly it would be to neglect so reasonable a Service;</p>
+            <p>Then it was that he was pleasing himself with the thoughts of having made Vertue his choice, and that when others spent all their time in the
+<pb n="14" facs="tcp:206342:9"/>gratification of their sinful Lusts and Affections, he had made it the chief end of all his endea<g ref="char:EOLhyphen"/>vours to please God.</p>
+            <p>So many are the Temptations with which we are surrounded, and so powerful an influence those things which affect our Senses, are wont to have upon us, that it is plainly necessary for us to retire some times at a distance from them, and to be wholly intent on the Contemplation of Spi<g ref="char:EOLhyphen"/>ritual things; that so these nobler Objects may lessen the others influence, and by making a last<g ref="char:EOLhyphen"/>ing impression of themselves upon our minds, may prevent their enticing us to act contrary to any of the Divine Precepts.</p>
+            <p>God does not tie us up to such hard terms, as to oblige us to spend all our Time in the Contem<g ref="char:EOLhyphen"/>plation of them.</p>
+            <p>He knows that in this imperfect State, neither our necessary Affairs will allow of it, nor these lumpish Bodies of Clay which we carry about with us, endure it.</p>
+            <p>And therefore, all that he requires at our hands is, that we would not permit our tempo<g ref="char:EOLhyphen"/>ral Concerns to take up all our thoughts and time, nor suffer our Recreations (which are only allowed us for our present refreshment, and to re<g ref="char:EOLhyphen"/>new our decayed Spirits) to divert us wholly from Meditating upon those Truths, upon the
+<pb n="15" facs="tcp:206342:9"/>knowledg whereof our Eternal Happiness so much depends.</p>
+            <p>4thly and Lastly, The private worship of God consists in secret Reflections and short Ejaculati<g ref="char:EOLhyphen"/>ons in all places, at all times of the day, and in all transactions of Life.</p>
+            <p>The truly Devout Christian is not content to have his set times for the keeping up within his mind a sense of God and Religion: But where<g ref="char:EOLhyphen"/>ever he is, and what-ever he is doing, he takes care that something of Devotion towards God be intermixed with all his Actions.</p>
+            <p>Is he suddainly invited, or urgent business pres<g ref="char:EOLhyphen"/>ses him to go where he is likely to meet with tem<g ref="char:EOLhyphen"/>ptations? He as suddainly makes some private Re<g ref="char:EOLhyphen"/>solutions within himself to withstand them with all his might, and in a word or two, begs of God to inable him to keep such his resolution.</p>
+            <p>Does he at any time fail in his Duty?</p>
+            <p>He immediately cries out, <hi>God be merciful to me a Sinner.</hi>
+            </p>
+            <p>Is he unexpectly called to enter upon some con<g ref="char:EOLhyphen"/>siderable Action?</p>
+            <p>He in the same Minute, with some short Sen<g ref="char:EOLhyphen"/>tence or other, intreats the Almighty to give him Success therein.</p>
+            <p>Does any suddain Misfortune befal him?</p>
+            <p>It is less than I deserve, he cries, but for thy
+<pb n="16" facs="tcp:206342:10"/>goodness sake take pity on me, O thou Preserver of Men!</p>
+            <p>Do things fall out according to his Wishes? O what grateful Expressions flow from him!</p>
+            <p>And thus in all Occurrences whatsoever, he keeps up a Reverence for his Maker, and expresses a due esteem and value for him. And this he does with ease, without giving the least trouble to the Company, with which he converses, or at all disturbing his own Affairs.</p>
+            <p>His innocent Mirth is not at all damped by any such pious Reflexions: Nor does his business the less go forward for those short Ejaculations, which upon such occasions breath from him.</p>
+            <p>And therefore if there could be any excuse made for the neglect of those other parts of pri<g ref="char:EOLhyphen"/>vate Worship, there can be none made for the neglect of this. For it is such a respect to God, as neither the greatest Personages, nor the most Worldly-minded Men can want leisure, nor those of the most ordinary Capacity, power to perform. For what Man of what quality or con<g ref="char:EOLhyphen"/>dition soever, may not on the suddain, in some sort of words or other (or what though it be without words) either beg God's Assistance in what he is about to undertake, or thank him for any good that has befaln him, or intreat him to forgive what he has done amiss, to remove those
+<pb n="17" facs="tcp:206342:10"/>misfortunes which have hapned to him; and to pour into his Lap what he shall judg most fit and convenient for him:</p>
+            <p>So that although upon some extraordinary em<g ref="char:EOLhyphen"/>ergency, or for want of Abilities, either private Prayer, or reading the Scriptures, or Meditation upon Divine things, should happen to be omit<g ref="char:EOLhyphen"/>ted by us; yet there can be no reason why this last way of Serving God in secret should.</p>
+            <p>When we are Dressing our selves in our Cham<g ref="char:EOLhyphen"/>bers, when we are Walking in the Streets, when we are making of Bargains and Contracts, when we are Eating and Drinking, in what Affair so<g ref="char:EOLhyphen"/>ever we are ingaged, what trouble can it be to us to awaken now and then within our Minds a De<g ref="char:EOLhyphen"/>vout Thought, an Holy Wish, a Pious Resoluti<g ref="char:EOLhyphen"/>on, or to Offer up to God some short comprehen<g ref="char:EOLhyphen"/>sive Petition as may be most suitable to our pre<g ref="char:EOLhyphen"/>sent Circumstances?</p>
+            <p>Having thus Discoursed of the Nature of that private Worship which may be used by particu<g ref="char:EOLhyphen"/>lar Christians when they are alone, I desire in the second place, that these following Advantages, which will certainly accrue to those who are constant in the Performance thereof, may be con<g ref="char:EOLhyphen"/>sidered by us.</p>
+            <p n="1">1. That hereby we shall be prompted to per<g ref="char:EOLhyphen"/>form all Religious Duties with much greater Strictness and Accuracy.</p>
+            <p n="2">
+               <pb n="18" facs="tcp:206342:11"/>2. That we shall hereby gain for our great Sa<g ref="char:EOLhyphen"/>tisfaction and Comfort, one of the most convinc<g ref="char:EOLhyphen"/>ing Arguments of our own Sincerity.</p>
+            <p n="3">3. That we shall hereby be best inabled to perform all Acts of Publick Worship after the most Solemn manner.</p>
+            <p n="4">4. That this will be a most excellent Preparati<g ref="char:EOLhyphen"/>on for Death, which is so uncertain.</p>
+            <p>5thly, and Lastly, That it will very much in<g ref="char:EOLhyphen"/>crease our Joy hereafter, to be openly rewarded for what we have done thus in Secret.</p>
+            <p>I begin with the first, That by our thus Wor<g ref="char:EOLhyphen"/>shiping God in Secret, we shall be prompted to perform all Religious Duties with much greater strictness and accuracy.</p>
+            <p>If any thing can make us in all respects tru<g ref="char:EOLhyphen"/>ly Religious, it must be an insight into the Na<g ref="char:EOLhyphen"/>ture of Spiritual things, and a frequent application of our Minds to the Contemplation of them.</p>
+            <p>When therefore any one by his own set times of Prayer, by his daily Reading the Scriptures, by constant Meditation upon God and Vertue, has disposed his Soul to be heartily Affected with what concerns its Immortal Welfare; when he has brought himself to that pass, as in every Action of his Life to intermix something of De<g ref="char:EOLhyphen"/>votion towards God.</p>
+            <p>How must this needs, if any thing can, make
+<pb n="19" facs="tcp:206342:11"/>him eager so to behave himself in all respects whatsoever, as may Intitle him to an higher in<g ref="char:EOLhyphen"/>terest in God's Favour, and to the expectations of greater Bliss hereafter?</p>
+            <p>These things do lay a kind of force upon him to be Religious, and to strive as much as he can to improve in every Grace and Vertue.</p>
+            <p>When by his being thus constantly Employed in the Contemplation of Spiritual things, he has them always in his View, he must do Violence to himself to run contrary to them.</p>
+            <p>And it will be no small Punishment to him at the first, if by a wilful Transgression of his Duty he Lives in a direct Opposition to his own Senti<g ref="char:EOLhyphen"/>ments.</p>
+            <p>It is the want of a due sense of Holy things which makes Men so Irreligious as they are.</p>
+            <p>They have no true Apprehensions, no relish of Divine matters, and this makes them run from them as far as they can.</p>
+            <p>Were but an early sense of them impressed up<g ref="char:EOLhyphen"/>on their Minds by those ways which I have been speaking of, they would not have the hardiness to be guilty of those wicked Practices which we now see daily Committed by them. Their Con<g ref="char:EOLhyphen"/>sciences being by this means kept <hi>in Life and Sense,</hi> would render them uneasie whenever they go a<g ref="char:EOLhyphen"/>bout to Transgress any known Duty. They
+<pb n="20" facs="tcp:206342:12"/>would be always representing to them the equi<g ref="char:EOLhyphen"/>ty of God's Laws, the greatness of the Rewards which accompany them; The severity of the Punishment which follows the neglect of them; Their own Folly and Ingratitude, should they de<g ref="char:EOLhyphen"/>spise such excellent Means of Salvation as are set before them.</p>
+            <p>And what can deter Men from acting a miss? nay, What can spur them on to further Ad<g ref="char:EOLhyphen"/>vancements in all manner of Vertuous and Holy Living, if the Consideration of these things thus forcibly urged upon their Minds cannot?</p>
+            <p>2dly, Another Advantage which would accrue to us by our thus Worshiping God in Secret, is, that hereby we shall obtain for our inward Comfort and Satisfaction, one of the most con<g ref="char:EOLhyphen"/>vincing Arguments of our own Sincerity.</p>
+            <p>Nothing affords a greater Satisfaction to any ones Mind, than to be able to Justify his own Proceedings to himself, and to be fully Convinced that his Behaviour has been such as it ought to have been.</p>
+            <p>Now there is no better way to gain such a Comfortable Assurance of having done Well, as by thus secretly Devoting our selves to God's Service.</p>
+            <p>Let Men seem never so Zealous in their Pub<g ref="char:EOLhyphen"/>lick Devotion, it may all be Counterfeit, and in order only to promote some dishonest design.</p>
+            <pb n="21" facs="tcp:206342:12"/>
+            <p>Thus the Devotion of the Pharisees, how spe<g ref="char:EOLhyphen"/>cious soever it appeared, was only to be seen of Men, and that they might thereby gain a better opportunity of devouring Widows Houses.</p>
+            <p>So that as to what is done in the sight of others, although it may be done at some times with a very honest intent, yet at other times we may be deceived therein, and phansie we are doing God's Service, when it is only serving our selves of some Temporal Advantage, which we hope thereby to promote.</p>
+            <p>But now when what we do is in secret, and no body sees us but God himself; when we might have followed the example of the rest of the World, who never trouble themselves about these mat<g ref="char:EOLhyphen"/>trers; and yet we have chosen rather to do our Duty privately, and to approve our selves to God in a way which is only Cognoscible by him and by no body else;</p>
+            <p>This must needs convince us of our Sincerity, and afford us the Satisfaction of being inward<g ref="char:EOLhyphen"/>ly assur'd that we have a greater regard for God and Vertue, than we have for any thing else be<g ref="char:EOLhyphen"/>sides.</p>
+            <p>3dly. That we may be the more perswaded thus to Worship God in secret, let us consider that hereby we shall be best inabled to perform all acts of publick Worship after the most solemn manner.</p>
+            <pb n="22" facs="tcp:206342:13"/>
+            <p>The reason why many keep away from the so<g ref="char:EOLhyphen"/>lemn Assemblies, and others behave themselves so Irreverently whilst they are present at them, is, because they want those dispositions of Mind as would qualifie them to attend upon Holy things with delight and satisfaction.</p>
+            <p>Their Souls do every Minute hanker after un<g ref="char:EOLhyphen"/>lawful Objects.</p>
+            <p>They are wholly intent upon the Vanities and Pleasures of this World, and this makes them have so little a kindness for what ever relates to God and Religion: So that they come to the pub<g ref="char:EOLhyphen"/>lick Worship, as if it were to their own Exe<g ref="char:EOLhyphen"/>cution, and are glad of any excuses to keep from it.</p>
+            <p>Now had they but accustom'd themselves to the Worship of God in private, they would be so far from being averse to the Worship of him in publick, as to be glad of any such kind invi<g ref="char:EOLhyphen"/>tation, <hi>Let us go into the House of the Lord.</hi>
+            </p>
+            <p>Their Minds being beforehand Ravished in the delightful Contemplation of the Divine At<g ref="char:EOLhyphen"/>tributes of God's most Holy Laws, of what he has done, and is ready to do for those who sin<g ref="char:EOLhyphen"/>cerely Love him.</p>
+            <p>What Devout Exercises can come amiss to them?</p>
+            <pb n="23" facs="tcp:206342:13"/>
+            <p>Their Harps are always strung, and their Souls always in Tune to Sing Anthems of Praise and Thanksgiving to their Heavenly Maker.</p>
+            <p>They enter his Courts with Joy, and whilst others are full of Coldness and Indifferency towards the Worship of him, there is no Holy Ordinance on which they don't attend with great Pleasure and Satisfaction.</p>
+            <p>4thly. Another Advantage which attends the private Worship of God, is, that it will be an excellent preparation against Death.</p>
+            <p>Since Life is so uncertain, and there are so many things which can snatch us out of the World before we are aware;</p>
+            <p>It mightily concerns us so to order our Affairs as that we may be fit to go hence on the suddain with Comfort and Satisfaction.</p>
+            <p>Our future Happiness depends upon those dis<g ref="char:EOLhyphen"/>positions, which we carry out of the World with us.</p>
+            <p>As we are affected towards God and Vertue when we go off this Stage, such will be our Reward hereafter.</p>
+            <p>To have our Oyl therefore to Buy, and our Lamps to Trim when the Bridegroom Sum<g ref="char:EOLhyphen"/>mons us to Attend him, is the way to be for ever Excluded from the Marriage Feast.</p>
+            <pb n="24" facs="tcp:206342:14"/>
+            <p>And therefore although the Foolish part of Mankind go on unconcerned in their Wick<g ref="char:EOLhyphen"/>ed Courses, and Live whilst they are here, as if they never were to Live any where else.</p>
+            <p>Yet the more Prudent, who know that their best Stake is in another World, will endeavour to secure it by being always prepared to leave their present Station with such a temper of Mind as will most certainly Intitle them to the Joys that are above.</p>
+            <p>Now what can better tend to effect this, than to keep up within our Minds a constant Respect for God, and for his most Righteous Laws, by this private Worship of him?</p>
+            <p>When we do every day in secret lament our past Follies, and are earnest for his Pardon and Forgiveness;</p>
+            <p>When we do every day express our depen<g ref="char:EOLhyphen"/>dance on him, by beseeching him to give us what is most fit and convenient for us, and by giving hearty Thanks for those Mercies which we have already received at his Hands;</p>
+            <p>When we do every Day by our selves admire the extraordinary perfections of the Divine Nature;</p>
+            <p>Are intent in our Meditations upon his Com<g ref="char:EOLhyphen"/>mandments;</p>
+            <p>Are Ravished in the Contemplation of his un<g ref="char:EOLhyphen"/>speakable Kindness towards us;</p>
+            <pb n="25" facs="tcp:206342:14"/>
+            <p>When Devout Thoughts do every moment spring up within us, and Pious Expressions flow from us;</p>
+            <p>When we are always thus disposed, how can Death at any time surprise us? We may bid it Well-come every hour of the day.</p>
+            <p>It is the greatest Blessing as can happen to those who are thus prepared for it; for it Transplants them into a place where their Minds will be full of the same Pious Thoughts and Affections, and where they will produce the same Vertues they do here, but with far more Ease and Transport, being freed from all those Troubles and Incum<g ref="char:EOLhyphen"/>brances which Clog and Imbitter, at present, our most Religious performances.</p>
+            <p>5thly. and Lastly, It will very much increase our Joy hereafter, to be openly Rewarded for what we have done thus in secret.</p>
+            <p>This is the Argument which our Saviour here makes use of to perswade his Disciples not to take the Pharisees for their Example (who made a great show of Piety, only that they might be seen of Men:)</p>
+            <p>But to approve themselves to God, altho it were never so Privately.</p>
+            <p>
+               <hi>Viz.</hi> That how few soever the Advantages might happen to be, which would accrue to them by such their Behaviour at present; yet
+<pb n="26" facs="tcp:206342:15"/>they would be made a sufficient amends, and that publickly too, hereafter.</p>
+            <p>
+               <hi>Thy Father which seeth in secret, shall reward thee openly.</hi>
+            </p>
+            <p>Although Devout Christians make no noise in the World, but chearfully Pay the great Crea<g ref="char:EOLhyphen"/>tor of all things that Tribute which they know justly to belong to him:</p>
+            <p>Yet he who is a constant Inspector of their Hearts, who knows their Integrity, and beholds their Devout Carriage, when it is hid from all the World besides; will not suffer it to be al<g ref="char:EOLhyphen"/>ways covered with Darkness, but will one day make it manifest, to the Eternal Honour and Advantage of such his Good and Faithful Ser<g ref="char:EOLhyphen"/>vants.</p>
+            <p>The time will come when in the Presence of all his Holy Angels, and Immortal Spirits, he will call them forth, and himself bear publick Testimony to the Sincerity of their Affections towards him.</p>
+            <p>Then will their frequent Prayers, their dili<g ref="char:EOLhyphen"/>gent Study of the Scriptures, their devout Me<g ref="char:EOLhyphen"/>ditations, their Pious Reflections, their Heaven<g ref="char:EOLhyphen"/>ly Ejaculations be all Enumerated, and every thing which they have done in Secret, be set in a due Light.</p>
+            <pb n="27" facs="tcp:206342:15"/>
+            <p>Upon the Discovery whereof, how will those Glorious Beings above Admire such their Devotion!</p>
+            <p>How will they run into their Embraces, and Congratulate the great Honour God has done them, in thus making manifest those Excellen<g ref="char:EOLhyphen"/>cies in them, which none before but himself had any knowledg of!</p>
+            <p>And what can afford them greater Satisfaction of Mind, than to have the Supreme Gover<g ref="char:EOLhyphen"/>nour of all things, and their most Merciful Father thus to attest their Piety, and those who are his chiefest Favourites, and make the nearest approaches unto him, upon their know<g ref="char:EOLhyphen"/>ledg thereof, to Love and Applaud them for it?</p>
+            <p>To Conclude then this whole Discourse; we see what great Advantages the Worship of God in Secret brings along with it.</p>
+            <p>Let us deal impartially with our own Souls, and not suffer any pretences whatsoever, by causing any neglect thereof, to deprive us of them:</p>
+            <p>But let us from our Pleasures, from our Busi<g ref="char:EOLhyphen"/>ness reserve some time thus to Pray unto God, to give him Thanks, to Converse with his Sacred Oracles, to Meditate upon Holy Things, and to
+<pb n="8" facs="tcp:206342:16"/>pour out our Souls in Private Whispers unto him upon all Emergencies whatsoever;</p>
+            <p>That so having by this means fixed a true Prin<g ref="char:EOLhyphen"/>ciple of Holiness within us;</p>
+            <p>Having furnished our Minds with such excel<g ref="char:EOLhyphen"/>lent Dispositions as do best qualifie us to be made Partakers of the Heavenly State;</p>
+            <p>In a word, having made our selves throughly acquainted with God and his most Righteous Laws, we may from hence be Instructed so to Behave our selves towards him in this World, that we may Live for Ever in his Presence in the World to come.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:206342:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
